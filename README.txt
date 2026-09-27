@@ -125,10 +125,6 @@ in the change log accompanying this repository.
 Repository URL: https://github.com/kunsanji/CA_Dashboard_Demo
 Visibility:     Public
 
---- Tableau Public dashboard ---
-URL:            public.tableau.com/views/__________
-Downloads:      enabled
-
 --- Zenodo DOI ---
 DOI:            https://doi.org/10.5281/zenodo.22985513
 
