@@ -130,7 +130,7 @@ URL:            public.tableau.com/views/__________
 Downloads:      enabled
 
 --- Zenodo DOI ---
-DOI:            [add after creating the GitHub release]
+DOI:            https://doi.org/10.5281/zenodo.22985513
 
 --- License ---
 Code: MIT License, see LICENSE.
